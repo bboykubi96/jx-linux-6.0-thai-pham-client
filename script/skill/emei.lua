@@ -179,7 +179,7 @@ SKILLS={
 		fasthitrecover_yan_v={{{1,1},{20,10},{21,10}},{{1,18},{2,18}}},
 		allres_p={{{1,1},{20,40}},{{1,18},{2,18}}}
 	},
-	sane_jixue={ --Èý¶ëö«Ñ©
+	sane_jixue={ --tam nga te nguyet
 		physicsenhance_p={{{1,10},{15,100},{20,237}}},
 		seriesdamage_p={{{1,20},{15,20},{20,60},{21,62}}},
 		colddamage_v={

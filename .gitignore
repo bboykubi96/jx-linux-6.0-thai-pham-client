@@ -1,2 +1,8 @@
 data/
 UserData/
+filedata/
+ClientData/
+!ClientData/.gitkeep
+!data/update_2023.pak
+!data/serverlist.pak
+!data/slistcache.pak
